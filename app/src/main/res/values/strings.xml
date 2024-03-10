@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Quiz3</string>
+    <string name="judul">Pencarian Calon Pasangan</string>
+    <string name="nama1">Aisyah</string>
+    <string name="nama2">Adinda</string>
+    <string name="nama3">Indriani</string>
+    <string name="nama4">Chandra</string>
+    <string name="nama5">Ummu Sulaim</string>
+    <string name="nama6">Adinda</string>
+    <string name="nama7">Windriani</string>
+    <string name="nama8">Zainab</string>
+    <string name="nip1">HTS-00001</string>
+    <string name="nip2">HTS-00002</string>
+    <string name="nip3">HTS-00003</string>
+    <string name="nip4">HTS-00004</string>
+    <string name="nip5">HTS-00005</string>
+    <string name="nip6">HTS-00006</string>
+    <string name="nip7">HTS-00007</string>
+    <string name="nip8">HTS-00008</string>
+    <string name="kota1">Pekalongan</string>
+    <string name="kota2">Jakarta</string>
+    <string name="kota3">Gorontalo</string>
+    <string name="kota4">Jambi</string>
+    <string name="kota5">Pekalongan</string>
+    <string name="kota6">Jakarta</string>
+    <string name="kota7">Gorontalo</string>
+    <string name="kota8">Jambi</string>
+    <string name="info_tombol">Klik untuk melihat profil singkat</string>
+    <string name="usia_calon">%d tahun</string>
+    <string name="profil_berikut">Profil-profil berikut adalah para peserta yang telah disesuaikan dengan preferensimu</string>
+    <string name="home">Home</string>
+    <string name="profil">Profil</string>
+    <string name="pencarian">Pencarian</string>
+
+
+</resources>
